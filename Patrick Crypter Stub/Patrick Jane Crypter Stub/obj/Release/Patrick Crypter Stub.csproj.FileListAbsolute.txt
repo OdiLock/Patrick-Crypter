@@ -1,0 +1,10 @@
+C:\Users\attationin\Documents\gitscam\Patrick\Patrick Jane Crypter Stub\Patrick Jane Crypter Stub\bin\Release\Patrick Crypter Stub.exe.config
+C:\Users\attationin\Documents\gitscam\Patrick\Patrick Jane Crypter Stub\Patrick Jane Crypter Stub\bin\Release\Patrick Crypter Stub.exe
+C:\Users\attationin\Documents\gitscam\Patrick\Patrick Jane Crypter Stub\Patrick Jane Crypter Stub\bin\Release\Patrick Crypter Stub.pdb
+C:\Users\attationin\Documents\gitscam\Patrick\Patrick Jane Crypter Stub\Patrick Jane Crypter Stub\obj\Release\Patrick Crypter Stub.csproj.AssemblyReference.cache
+C:\Users\attationin\Documents\gitscam\Patrick\Patrick Jane Crypter Stub\Patrick Jane Crypter Stub\obj\Release\Patrick Crypter Stub.csproj.SuggestedBindingRedirects.cache
+C:\Users\attationin\Documents\gitscam\Patrick\Patrick Jane Crypter Stub\Patrick Jane Crypter Stub\obj\Release\Patrick Crypter Stub.csproj.CoreCompileInputs.cache
+C:\Users\attationin\Documents\gitscam\Patrick\Patrick Jane Crypter Stub\Patrick Jane Crypter Stub\obj\Release\Patrick Crypter Stub.exe
+C:\Users\attationin\Documents\gitscam\Patrick\Patrick Jane Crypter Stub\Patrick Jane Crypter Stub\obj\Release\Patrick Crypter Stub.pdb
+C:\Users\attationin\Documents\gitscam\Patrick\Patrick Jane Crypter Stub\Patrick Jane Crypter Stub\bin\Release\ArmDot.Client.dll
+C:\Users\attationin\Documents\gitscam\Patrick\Patrick Jane Crypter Stub\Patrick Jane Crypter Stub\obj\Release\Patrick Crypter Stub.csproj.CopyComplete

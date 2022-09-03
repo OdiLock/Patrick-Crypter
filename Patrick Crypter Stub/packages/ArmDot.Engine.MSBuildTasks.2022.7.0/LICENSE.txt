@@ -1,0 +1,37 @@
+THIS IS A CONTRACT. YOU SHOULD CAREFULLY READ ALL THE TERMS AND CONDITIONS BEFORE INSTALLING THIS SOFTWARE. BY INSTALLING THE SOFTWARE, YOU ACCEPT ALL THE TERMS AND CONDITIONS OF THIS LICENSE. 
+
+This License Agreement is a legal Agreement between you, an individual or organization, and Softanics. 
+
+All copyrights to ArmDot ("Software") are exclusively owned by Softanics.
+
+Anyone may use this software during a test period of 14 days. Following this test period of 14 days or less, if you wish to continue to use ArmDot, you MUST register.
+
+You may read how to register in help or at our web site www.armdot.com
+
+Once registered, the user is granted a non-exclusive license to use ArmDot.
+
+SINGLE DEVELOPER LICENSE grants right to a single developer in a company to use ArmDot.
+
+SITE DEVELOPER LICENSE grants right for any developer in a company to use ArmDot.
+
+PERSONAL LICENSE grants right to a person to use ArmDot for non commercial usage.
+
+SOURCE CODE LICENSE grants right to a company to build, modify the ArmDot Engine source code, and to distribute it in binary form as a part of the company software.
+
+The ArmDot unregistered version, may be freely distributed, provided the distribution package is not modified. No person or company may charge a fee for the distribution of ArmDot without written permission from the copyright holder.
+
+ArmDot IS DISTRIBUTED "AS IS". NO WARRANTY OF ANY KIND IS EXPRESSED OR IMPLIED. YOU USE AT YOUR OWN RISK. THE AUTHOR WILL NOT BE LIABLE FOR DATA LOSS, DAMAGES, LOSS OF PROFITS OR ANY OTHER KIND OF LOSS WHILE USING OR MISUSING THIS SOFTWARE.
+
+You may not use, copy, emulate, clone, rent, lease, sell, modify, decompile, disassemble, otherwise reverse engineer, or transfer the licensed program, or any subset of the licensed program, except as provided for in this agreement. Any such unauthorized use shall result in immediate and automatic termination of this license and may result in criminal and/or civil prosecution. All rights not expressly granted here are reserved by Softanics.
+
+Installing and using ArmDot signifies acceptance of these terms and conditions of the license.
+
+If you do not agree with the terms of this license you must remove ArmDot files from your storage devices and cease to use the product.
+
+Registration codes and access codes 
+
+Registration codes (e.g., serial number) or access codes (e.g. archive file password) you received with purchasing and/or registering this Software are not the subject to the present Agreement. You may store any number of copies of such codes in any form if only you are a registered user and if you obtained them in the registration process or purchasing the Software from Softanics or authorized persons, individuals or organizations. Any distribution or delivery of the registration and access codes to any third party as well as any form of publication is prohibited. The copyright of all registration and access codes remains the property of Softanics which reserves the right to withhold or withdraw authorization of use of all registration codes issued to any user if there is reasonable evidence to indicate that the user is involved in a breach of the terms of this License Agreement. 
+
+Modifications to the Software 
+
+Softanics reserves the right to change the executable code and to remove, add or change the Software's functions. 
