@@ -15,10 +15,10 @@ This crypter`s stub is FUD for now. If it is not like this you can wait for upda
 Also feel free to edit the source code
 
 REQUIREMENTS:
-.NET Framework 4.6, Visual Studio 2022 with C# pack for code editing
+.NET Framework 4.6, Visual Studio 2022 with C# pack for code editing(if you want to build source code)
 
 DISCLAIMER:
-THIS IS FOR EDUCATIONAL PURPOSES ONLY, PLEASE DO NOT USE TO CREATE MALWARE! 
+THIS IS FOR EDUCATIONAL PURPOSES ONLY, PLEASE DO NOT USE TO CREATE MALWARE! 😎
 
-If you like this repository, leave it a star 🌟
+If you like this repository, leave it a star 🌟🌟🌟
 
