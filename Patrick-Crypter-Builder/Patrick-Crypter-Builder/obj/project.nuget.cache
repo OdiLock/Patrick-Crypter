@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "InLRY9cHJqCtpriAwTHNb4uKiIY0+Q3N2/FYSeWiynj2DuImjetq3SxCZCioUmSrFk7eusukYKLxzFy80aR1aw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\attationin\\Documents\\gitscam\\Patrick-Crypter-Update\\Patrick-Crypter-Builder\\Patrick-Crypter-Builder\\Patrick-Crypter-Builder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\attationin\\.nuget\\packages\\armdot.client\\2022.9.0\\armdot.client.2022.9.0.nupkg.sha512",
+    "C:\\Users\\attationin\\.nuget\\packages\\armdot.engine.msbuildtasks\\2022.9.0\\armdot.engine.msbuildtasks.2022.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

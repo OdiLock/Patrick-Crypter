@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\attationin\\Documents\\gitscam\\Patrick-Crypter-Update\\Patrick-Crypter-Stub\\Patrick-Crypter-Stub\\Patrick-Crypter-Stub.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\attationin\\Documents\\gitscam\\Patrick-Crypter-Update\\Patrick-Crypter-Stub\\Patrick-Crypter-Stub\\Patrick-Crypter-Stub.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\attationin\\Documents\\gitscam\\Patrick-Crypter-Update\\Patrick-Crypter-Stub\\Patrick-Crypter-Stub\\Patrick-Crypter-Stub.csproj",
+        "projectName": "WinFormApp",
+        "projectPath": "C:\\Users\\attationin\\Documents\\gitscam\\Patrick-Crypter-Update\\Patrick-Crypter-Stub\\Patrick-Crypter-Stub\\Patrick-Crypter-Stub.csproj",
+        "packagesPath": "C:\\Users\\attationin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\attationin\\Documents\\gitscam\\Patrick-Crypter-Update\\Patrick-Crypter-Stub\\Patrick-Crypter-Stub\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\attationin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "targetAlias": "net4.6-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "targetAlias": "net4.6-windows",
+          "dependencies": {
+            "ArmDot.Client": {
+              "target": "Package",
+              "version": "[2022.9.0, )"
+            },
+            "ArmDot.Engine.MSBuildTasks": {
+              "target": "Package",
+              "version": "[2022.9.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

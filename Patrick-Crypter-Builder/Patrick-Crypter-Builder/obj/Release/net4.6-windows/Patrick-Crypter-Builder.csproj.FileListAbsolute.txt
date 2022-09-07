@@ -1,0 +1,15 @@
+C:\Users\attationin\Documents\gitscam\Patrick-Crypter-Update\Patrick-Crypter-Builder\Patrick-Crypter-Builder\bin\Release\net4.6-windows\Patrick-Crypter-Builder.exe.config
+C:\Users\attationin\Documents\gitscam\Patrick-Crypter-Update\Patrick-Crypter-Builder\Patrick-Crypter-Builder\bin\Release\net4.6-windows\Patrick-Crypter-Builder.exe
+C:\Users\attationin\Documents\gitscam\Patrick-Crypter-Update\Patrick-Crypter-Builder\Patrick-Crypter-Builder\bin\Release\net4.6-windows\Patrick-Crypter-Builder.pdb
+C:\Users\attationin\Documents\gitscam\Patrick-Crypter-Update\Patrick-Crypter-Builder\Patrick-Crypter-Builder\bin\Release\net4.6-windows\ArmDot.Client.dll
+C:\Users\attationin\Documents\gitscam\Patrick-Crypter-Update\Patrick-Crypter-Builder\Patrick-Crypter-Builder\obj\Release\net4.6-windows\Patrick-Crypter-Builder.csproj.AssemblyReference.cache
+C:\Users\attationin\Documents\gitscam\Patrick-Crypter-Update\Patrick-Crypter-Builder\Patrick-Crypter-Builder\obj\Release\net4.6-windows\Patrick-Crypter-Builder.csproj.SuggestedBindingRedirects.cache
+C:\Users\attationin\Documents\gitscam\Patrick-Crypter-Update\Patrick-Crypter-Builder\Patrick-Crypter-Builder\obj\Release\net4.6-windows\Patrick_Crypter_Builder.Form1.resources
+C:\Users\attationin\Documents\gitscam\Patrick-Crypter-Update\Patrick-Crypter-Builder\Patrick-Crypter-Builder\obj\Release\net4.6-windows\Patrick-Crypter-Builder.csproj.GenerateResource.cache
+C:\Users\attationin\Documents\gitscam\Patrick-Crypter-Update\Patrick-Crypter-Builder\Patrick-Crypter-Builder\obj\Release\net4.6-windows\Patrick-Crypter-Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\attationin\Documents\gitscam\Patrick-Crypter-Update\Patrick-Crypter-Builder\Patrick-Crypter-Builder\obj\Release\net4.6-windows\Patrick-Crypter-Builder.AssemblyInfoInputs.cache
+C:\Users\attationin\Documents\gitscam\Patrick-Crypter-Update\Patrick-Crypter-Builder\Patrick-Crypter-Builder\obj\Release\net4.6-windows\Patrick-Crypter-Builder.AssemblyInfo.cs
+C:\Users\attationin\Documents\gitscam\Patrick-Crypter-Update\Patrick-Crypter-Builder\Patrick-Crypter-Builder\obj\Release\net4.6-windows\Patrick-Crypter-Builder.csproj.CoreCompileInputs.cache
+C:\Users\attationin\Documents\gitscam\Patrick-Crypter-Update\Patrick-Crypter-Builder\Patrick-Crypter-Builder\obj\Release\net4.6-windows\Patrick-Crypter-Builder.csproj.CopyComplete
+C:\Users\attationin\Documents\gitscam\Patrick-Crypter-Update\Patrick-Crypter-Builder\Patrick-Crypter-Builder\obj\Release\net4.6-windows\Patrick-Crypter-Builder.exe
+C:\Users\attationin\Documents\gitscam\Patrick-Crypter-Update\Patrick-Crypter-Builder\Patrick-Crypter-Builder\obj\Release\net4.6-windows\Patrick-Crypter-Builder.pdb
