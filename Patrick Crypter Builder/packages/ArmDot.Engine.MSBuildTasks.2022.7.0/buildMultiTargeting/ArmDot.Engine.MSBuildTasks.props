@@ -1,3 +1,0 @@
-<Project>
-  <Import Project="..\build\ArmDot.Engine.MSBuildTasks.props" />
-</Project>
