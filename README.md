@@ -3,7 +3,7 @@
 ❗❗❗RELEASE FILES ARE NOW OBFUSCATED WITH ARMDOT v0.3❗❗❗
 
 
-DO NOT UPLOAD TO VIRUSTOTAL!
+DO NOT UPLOAD TO VIRUSTOTAL!!!
 
 USAGE:
 1) Download release or build source code yourself with Any CPU mode
