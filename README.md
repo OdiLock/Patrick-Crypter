@@ -14,7 +14,7 @@ USAGE:
 ![](https://github.com/OdiLock/Patrick-Crypter/blob/main/Patrick%20Crypter%20Builder/Patrick%20Jane%20Crypter%20Builder/Builder.png)
 
 UPGRADE:
-This crypter`s stub is FUD for now. If it is not like this you can wait for update or additionaly obfuscate  crypter stub here: https://freeobfuscator.com/
+This crypter`s stub is FUD for now. If it is not like this you can wait for update or additionaly obfuscate  crypter stub here: https://freeobfuscator.com/.
 Also feel free to edit the source code
 
 REQUIREMENTS:
